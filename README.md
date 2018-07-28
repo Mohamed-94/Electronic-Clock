@@ -20,9 +20,11 @@
 ## About
  
 This program is drawn manually to simulate the electronic clock, basically it can be used for various time benefits, but the main task actually was just to draw it manually!! with just the 'Code'..
+
 it has an analog clock embedded with the original one as well.
 
--#Tasks:
+#Tasks:
+
  -Displaying local Date and Time
  
  -Using the C# timer 
@@ -34,7 +36,7 @@ it has an analog clock embedded with the original one as well.
 
 To clone and edit this application, you'll need [Git](https://git-scm.com) and [Visual Studio Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#) ,or any C# IDE you are familiar with, and/or can meet your demands.
 
---This program rquires .NET Framwork 4.0 or higher ..
+--This program requires .NET Framework 4.0 or higher ..
 
 *if you are using linux you will need [MonoDevelop](https://www.monodevelop.com/download/#fndtn-download-lin) instaled on your machine, which is just an open source version of .NET Framework.
 
