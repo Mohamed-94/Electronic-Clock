@@ -23,8 +23,9 @@ This program is drawn manually to simulate the electronic clock, basically it ca
 
 it has an analog clock embedded with the original one as well.
 
-#Tasks:
-
+<h6>
+Tasks:
+</h6>
  -Displaying local Date and Time
  
  -Using the C# timer 
