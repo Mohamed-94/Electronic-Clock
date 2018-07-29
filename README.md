@@ -5,12 +5,15 @@
   <br>
 </h3>
  
+ 
 <p align="center">
   <a href="#About">About</a> •
   <a href="#Usage">Usage</a> •
+  <a href="#Download">Download</a> •
   <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> 
 </p>
+
 <div align="center">
 
  ![tronic-clock](https://user-images.githubusercontent.com/38832580/43360997-b5fd54c4-92bb-11e8-926e-7df67190bea9.gif)
@@ -41,7 +44,13 @@ To clone and edit this application, you'll need [Git](https://git-scm.com) and [
 
 *if you are using linux you will need [MonoDevelop](https://www.monodevelop.com/download/#fndtn-download-lin) instaled on your machine, which is just an open source version of .NET Framework.
 
--From your command line:
+## Download
+
+-There's no binary included with this repository ..All you need is just to clone the source code!
+
+ and than build/run it using any C# IDE you like to get your own binary file.
+ 
+ -From your command line:
 
 ```bash
 # Clone this repository
@@ -51,11 +60,8 @@ $ git clone https://github.com/Mohamed-94/Mega-Number
 $ cd Mega-Number
 
 ```
-
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-
- 
 ## Related
 
 [SuperCalculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine application
